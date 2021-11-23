@@ -1,0 +1,31 @@
+[
+    {"sign":" ","key":"common","value":
+        [
+            {"sign":"+","key":"follow","value":false},
+            {"sign":"+","key":"setting4","value":"blah blah"},
+            {"sign":"+","key":"setting5","value":
+                                            [
+                                                {"sign":"+","key":"key5","value":"value5"}
+                                            ]},
+            {"sign":" ","key":"setting6","value":
+                                            [
+                                                {"sign":"+","key":"ops","value":"vops"},
+                                                {"sign":" ","key":"doge","value":[]}
+                                            ]}
+        ]},
+    {"sign":" ","key":"group1","value":[]},
+    {"sign":"+","key":"group3","value":
+                                    [
+                                        {"sign":"+","key":"deep","value":
+                                                                    [
+                                                                        {"sign":"+","key":"id","value":
+                                                                                                [
+                                                                                                    {"sign":"+","key":"number","value":45}
+                                                                                                ]
+                                                                        }
+                                                                    ]
+                                        },
+                                        {"sign":"+","key":"fee","value":100500}
+                                    ]
+    }
+]
