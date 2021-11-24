@@ -5,11 +5,14 @@
   "main": "stringity",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BelarusWillBeFree/test_tree.git"
+    "url": "https://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@github.com/BelarusWillBeFree/test_tree.git"
   },
   "scripts": {
     "test": "./__test__/stringity.test.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  }
 }
