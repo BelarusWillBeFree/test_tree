@@ -11,5 +11,8 @@
     "test": "./__test__/stringity.test.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  }
 }
